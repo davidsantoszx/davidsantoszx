@@ -1,5 +1,5 @@
 # 💫 About Me:
-Formado em ADS, Procuro vaga de Desenvolvedor de Software.
+Formado em Análise e Desenvolvimento de Sistemas, busco uma oportunidade como Desenvolvedor de Software. Tenho experiência em suporte de TI e desenvolvimento de projetos utilizando React, JavaScript, Tailwind CSS, além de conhecimentos em Node.js, PostgreSQL e automação com PowerShell. Estou em constante evolução, desenvolvendo projetos próprios para aprimorar minhas habilidades e contribuir com soluções de qualidade.
 
 
 ## 🌐 Socials:
